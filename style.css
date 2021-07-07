@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Roboto:wght@300&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.myContainer {
+	/* just to see the container */
+	/* border: 1px solid black; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+	margin-left: 0;
+	background: white;
+
+
+}
+
+.items {
+	/* just to see the container */
+	/* border: 1px solid black; */
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5rem;
+}
+
+.btn-primary {
+	margin-top: 25px;
+}
+
+.myH3 {
+	margin-top: 25px;
+}
